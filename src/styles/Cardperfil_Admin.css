@@ -1,0 +1,41 @@
+.card-deck{
+ margin-left: 30px;
+ width: 95%;
+}
+.card{
+    width: 20%;
+}
+#Card-1{
+    border: none;
+    border-radius: 10px;
+    padding: 500;
+}
+#Card-2{
+    margin-right: 100px;
+    width: 100%;
+    box-shadow:  0px 1px 8px 2px #CCCCFE;
+    border: 1px solid #CCCCFE;
+    border-radius: 10px;
+    padding-right: 150px ;
+}
+#Imagen-perfil{
+    margin-top: 20px;
+    height: 320px;
+    width: 350px;
+    margin-left: 95px;
+}
+#Card-title-text{
+    color:#E1BEE7;
+    margin-right: 50px;
+}
+.card-text{
+    display: inline;
+    padding: 5px;
+    color: black;
+    font-weight: 400;
+    
+}
+#Card-title{
+    font-weight: 400;
+    margin-left: 200px;
+}

@@ -1,0 +1,39 @@
+.icons-social{
+    text-align: center;
+    padding: 0;
+}
+.icons-social__item{
+    display: inline-block;
+}
+.icons-social__link{
+    color:#d500f9;
+    font-size: 23px;
+    border-radius: 23px;
+    background: whitesmoke;
+    transition: 0.2s linear;
+    display: flex;
+    height: 35px;
+    width: 35px;
+    margin: 0px 5px;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+
+}
+.icons-social__link:hover{
+    box-shadow: pink;
+}
+.footer{
+    padding: 40px;
+    text-align: center;
+    background-color: #EED2F7;
+    margin: 0;
+}
+.container-footer{
+    color: black;
+    text-decoration: none;
+}
+.Derechos{
+    height: 10px;
+    width: 10px;
+}

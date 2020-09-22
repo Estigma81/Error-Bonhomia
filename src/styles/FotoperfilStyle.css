@@ -1,0 +1,59 @@
+.ContainerPerfil{
+    background-color: #CE93D8;
+    width: 1600px;
+    height: 400px;
+    border: 5px;
+    }
+    
+    
+    .img-fluid{
+    width: 270px;
+    height: 270px; 
+    margin-left: 3%;
+    margin-top: 25px;
+    color: lawngreen  ;
+    border-radius: 30px;
+    
+    }
+    
+    .btn-primary{
+    background-color: #CE93D8;
+    text-align: left;
+    }
+    
+    .ContainerCerrar{
+      margin-left: 45%;
+    }
+    
+    .btn-secondary{
+      background-color: #e4b4ec;
+      text-align: left;
+      }
+    
+    .ContainerNombre{
+    margin-right: 36%;
+    margin-top: 12%;
+    float: right;
+      } 
+    
+    .BotonCambio{
+     background:transparent;
+     margin-left: 120px;
+    margin-top:30px;
+    border-color: transparent;
+    font-size:20px ;
+      }
+    
+    .CampoNombre{
+      margin-top: -40%;
+    }
+    
+    .progress-bar{
+    
+      width: 70%;
+    }
+  
+    .TituloProgreso{
+  text-align: center;
+  font-size: 70px;
+    }

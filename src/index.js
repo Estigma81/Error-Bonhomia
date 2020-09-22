@@ -1,17 +1,51 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.css';
+import Bonhomiamusica from './pages/Bonhomiamusica.jsx'
+//import Admin from './pages/Bonhomiaadmin.jsx'
+//import AdminActividades from './pages/Bonhomiaadminactividades.jsx'
+//import Bonhomiauno from './pages/Bonhomiauno.jsx'
+//import PerfilAdmin from './pages/PerfilAdmin.jsx'
+//import Aplicacion from './components/Aplicacion.jsx'
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+
+
+/*ReactDOM.render(
+  <>
+  <Aplicacion/>
+  </>,
   document.getElementById('root')
-);
+);*/
+ ReactDOM.render(
+  <>
+  <Bonhomiamusica/>
+  </>,
+  document.getElementById('root')
+); 
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+/*ReactDOM.render(
+  <>
+  <Admin/>
+  </>,
+  document.getElementById('root')
+); */
+/*ReactDOM.render(
+  <>
+  <AdminActividades/>
+  </>,
+  document.getElementById('root')
+);*/
+/*ReactDOM.render(
+  <>
+  <Bonhomiauno/>
+  </>,
+  document.getElementById('root')
+); */
+
+/*ReactDOM.render(
+  <>
+  <PerfilAdmin/>
+  </>,
+  document.getElementById('root')
+);*/

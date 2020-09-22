@@ -1,0 +1,23 @@
+.navbar{
+    height: 10%;
+    background: #faeffd;
+    border: 2px solid #E1BEE7;
+    justify-content: space-between;
+}
+.navbar a{
+    font-weight: 700;
+    text-transform: uppercase;
+    color:#E1BEE7;
+}
+.navbar a:hover{
+    background-color: white;
+    border-radius: 10px;
+    color: #E1BEE7 ;
+}
+.aInicio{
+    display: inline;
+    font-size: 15px;
+}
+
+
+
