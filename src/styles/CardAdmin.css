@@ -1,5 +1,5 @@
 .Administrador__card{
-    border: none;
+
     width: 100%;
 }
 #Imagencard_Admin{
@@ -9,8 +9,11 @@
     border: none;
 }
 #Imagencard_Admin2{
-    margin-left:100px;
     height: 500px;
     width: 500px;
+    border: none;
+    text-align: right;
+}
+.card{
     border: none;
 }

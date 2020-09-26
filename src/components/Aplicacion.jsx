@@ -1,6 +1,6 @@
 import React from 'react';
 import {BrowserRouter, Switch, Route} from 'react-router-dom';
-import Bonhomiauno from '../pages/Bonhomiauno.jsx';
+//import Bonhomiauno from '../pages/Bonhomiauno.jsx';
 import AdminPerfil from '../pages/PerfilAdmin.jsx'
 import BonhomiaAdmin from '../pages/Bonhomiaadmin.jsx'
 import BonhomiaAdminactividades from '../pages/Bonhomiaadminactividades.jsx'
@@ -11,7 +11,7 @@ function Aplicacion (){
         <BrowserRouter>
 
         <Switch>  
-            <Route exact path= '/bonhomia' component={Bonhomiauno}/>
+            
             <Route exact path= '/bonhomia/admin' component={BonhomiaAdmin}/>
             <Route exact path= '/bonhomia/adminactividades' component={BonhomiaAdminactividades}/>
             <Route exact path= '/bonhomia/perfiladmin' component={AdminPerfil}/>
@@ -22,4 +22,5 @@ function Aplicacion (){
 
     )
 }
+//<Route exact path= '/bonhomia' component={Bonhomiauno}/>
 export default Aplicacion;

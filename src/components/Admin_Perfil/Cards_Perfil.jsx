@@ -8,9 +8,12 @@ class Cardperfil extends React.Component {
     render() {
         return (
             <div className="card-deck" >
+                <div className="row justify-content-center h-200">
                 <div className="card" id="Card-1">
                     <img src={PerfilAdmin}className="card-img-top"  id="Imagen-perfil" alt=""/>
                 </div>
+                </div>
+               
                     <div className="card" id="Card-2">      
                             <div className="card-body">
                                 <h5 className="card-title" id="Card-title">Bienvenido a tu perfil</h5>

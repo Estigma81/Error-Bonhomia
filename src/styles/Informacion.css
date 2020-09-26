@@ -1,28 +1,19 @@
+
 #CardInfo{
-border: none;
-width: 90%;
-margin-left: 100px;
-}
-#CardInfo2{
     box-shadow:  0px 1px 8px 2px #f06292;
     border: 1px solid #f8bbd0;
     border-radius: 10px;
     background-color: #faeffd; 
-    margin-right: 1px;
-    padding-left: 5px;
-    padding-right: 100px;
+    width: 50%;
+    text-align: center;
+    
+    
 
     
 }
-.card-deck{
-    width: 85%;
-    margin-left: 30px;
-}
 
 
-.P__informacion{
-    font-size:20px ;
-}
+
 .P__informacion1{
-    margin-top: 15px;
+    font-size:20px ;
 }

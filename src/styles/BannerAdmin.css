@@ -1,7 +1,8 @@
 .Banner{
     background-color:white;
+    text-align: center;
 }
 #Banner_Admin-img{
-    margin-left: 550px;
-    margin-top: 20px;
+   text-align: center;
+   margin-left: 30px;
 }

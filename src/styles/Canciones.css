@@ -6,69 +6,29 @@
 #Cancion1{
     background-color: #CE93D8;
 }
-
+.links{
+    margin-left: 10px;
+}
+#Autor__texto{
+justify-content: center;
+}
 #Cancion__img{
     width:50px;
     height:50px;
     margin-left: 80px;
 }
-#Cancion__texto{
-    margin-left: 100px;
-}
-#Autor__texto{
-    margin-left: 285px;
-}
-#Duracion__texto{
-    margin-left: 350px;
-}
-#Autor__texto2{
-    margin-left: 250px;
-}
-#Duracion__texto2{
-    margin-left: 340px;
-}
-#Autor__texto3{
-    margin-left: 290px;
-}
-#Duracion__texto3{
-    margin-left: 335px;
-}
-#Autor__texto4{
-    margin-left: 240px;
-}
-#Duracion__texto4{
-    margin-left: 380px;
-}
-#Autor__texto5{
-    margin-left: 250px;
-}
-#Duracion__texto5{
-    margin-left: 320px;
-}
-#Autor__texto6{
-    margin-left: 320px;
-}
-#Duracion__texto6{
-    margin-left: 395px;
-}
-#Autor__texto7{
-    margin-left: 270px;
-}
-#Duracion__texto7{
-    margin-left: 390px;
-}
-#Cancion__left{
+.Cancion__left{
     width:50px;
     height:50px;
-    margin-left: 200px;
+    text-align: left;
 }
-#Cancion__pause{
+.Cancion__pause{
     width:50px;
     height:50px;
-    margin-left: 370px;
+    justify-content: center;
 }
-#Cancion__right{
+.Cancion__right{
     width:50px;
     height:50px;
-    margin-left: 480px;
+    text-align: right;
 }

@@ -3,6 +3,7 @@
     background: #faeffd;
     border: 2px solid #E1BEE7;
     justify-content: space-between;
+    font-family: 'Bebas Neue', cursive;
 }
 .navbar a{
     font-weight: 700;

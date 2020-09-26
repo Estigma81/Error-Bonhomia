@@ -8,13 +8,13 @@ import Musica from '../../images/Musica.png';
 class Card1 extends React.Component {
     render() {
         return (
-            <div class="card-group">
-                <div class="card">
+            <div className="card-group">
+                <div className="card">
                     <img src={Actividades} className="Administrador__card"id="Imagencard_Admin" alt="..."/>
                         
                 </div>
                     
-                <div class="card">
+                <div class="card" >
                         <img src={Musica} className="Administrador__card" id="Imagencard_Admin2" alt="..."/>
                 </div>
                     

@@ -12,8 +12,8 @@ class BannerAdmin extends React.Component {
                         <div>
                          <a href="/"><img src={upload} height="auto" width="auto" id="Banner_Admin-img" alt=""/></a>   
                         </div>
-                    </div>
-
+                    </div> 
+                    <br/>
                 </div>
             </section>
         )
